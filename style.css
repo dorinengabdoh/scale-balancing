@@ -12,7 +12,7 @@ body {
 .title {
   text-align: center;
   font-size: 2rem;
-  margin-bottom: 30px;
+  padding-top: 30px;
 }
 
 .input-section {
@@ -64,4 +64,12 @@ input {
   border-radius: 5px;
   font-size: 1.2rem;
   text-align: center;
+}
+
+.hello {
+  padding-bottom: 1rem;
+}
+
+#element1 {
+  margin-bottom: 3rem;
 }
